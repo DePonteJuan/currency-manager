@@ -22,14 +22,9 @@ const data = {
   },
   navMain: [
     {
-      title: "Home",
-      url: "/",
-      icon: Home,
-    },
-    {
       title: "Dashboard",
       url: "/dashboard",
-      icon: DollarSign,
+      icon: Home,
     },
     {
       title: "Calculator",
